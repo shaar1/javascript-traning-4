@@ -1,3 +1,12 @@
+var // some vers
+x = 10,
+y = 20,
+z = 100,
+name = "osama",
+Name = "Ahmad",
+firstName = "Mahmoud",
+theLastName = "Sayed"; 
+
 //simple function
 
 document.getElementById("test").innerHTML = "Hello JavaScript from Js file";
